@@ -1,0 +1,57 @@
+{
+  "v": 1,
+  "updatedAt": 1790516526046,
+  "devices": {
+    "24c25ca5-1c6f-452b-ad17-48ee8d4a336a": {
+      "lastSeen": 1790516522154
+    }
+  },
+  "problems": {
+    "115": {
+      "date": "2026-09-27",
+      "difficulty": "Hard",
+      "folderName": "0115-Distinct-Subsequences",
+      "language": "C++",
+      "number": 115,
+      "title": "Distinct Subsequences",
+      "at": 1790516522154
+    },
+    "1807": {
+      "attempts": 1,
+      "bestMemory": "122.8 MB (Beats 47%)",
+      "bestRuntime": "97 ms (Beats 36%)",
+      "date": "2026-09-27",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-09-27",
+      "folderName": "1807-Evaluate-the-Bracket-Pairs-of-a-String",
+      "language": "C++",
+      "number": 1807,
+      "slug": "evaluate-the-bracket-pairs-of-a-string",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Hash Table",
+        "String"
+      ],
+      "title": "Evaluate the Bracket Pairs of a String",
+      "at": 1790516522154
+    }
+  },
+  "achievements": {
+    "first_blood": 1790516510157
+  },
+  "sheets": {},
+  "days": [
+    "2026-09-27"
+  ],
+  "bests": {
+    "longestStreak": 1,
+    "pushes": 1
+  },
+  "identity": {
+    "installId": "fd60ae66-6293-4a47-8603-f1e7c9c4a868",
+    "at": 1790441304030,
+    "name": "Aditya Kumar",
+    "nameAt": 1790441444672
+  }
+}
