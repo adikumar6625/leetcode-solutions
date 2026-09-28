@@ -1,12 +1,31 @@
 {
   "v": 1,
-  "updatedAt": 1790615619497,
+  "updatedAt": 1790615904765,
   "devices": {
     "24c25ca5-1c6f-452b-ad17-48ee8d4a336a": {
-      "lastSeen": 1790615604129
+      "lastSeen": 1790615904158
     }
   },
   "problems": {
+    "26": {
+      "attempts": 1,
+      "bestMemory": "22.6 MB (Beats 80%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-28",
+      "folderName": "0026-Remove-Duplicates-from-Sorted-Array",
+      "language": "C++",
+      "number": 26,
+      "slug": "remove-duplicates-from-sorted-array",
+      "solutionCount": 1,
+      "tags": [
+        "Array",
+        "Two Pointers"
+      ],
+      "title": "Remove Duplicates from Sorted Array",
+      "at": 1790615904158
+    },
     "115": {
       "date": "2026-09-27",
       "difficulty": "Hard",
@@ -14,7 +33,7 @@
       "language": "C++",
       "number": 115,
       "title": "Distinct Subsequences",
-      "at": 1790615604129
+      "at": 1790615904158
     },
     "167": {
       "attempts": 2,
@@ -34,7 +53,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1790615604129
+      "at": 1790615904158
     },
     "1190": {
       "attempts": 1,
@@ -54,7 +73,7 @@
         "Bracket Sequences"
       ],
       "title": "Reverse Substrings Between Each Pair of Parentheses",
-      "at": 1790615604129
+      "at": 1790615904158
     },
     "1614": {
       "attempts": 1,
@@ -74,7 +93,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1790615604129
+      "at": 1790615904158
     },
     "1807": {
       "attempts": 1,
@@ -94,7 +113,7 @@
         "String"
       ],
       "title": "Evaluate the Bracket Pairs of a String",
-      "at": 1790615604129
+      "at": 1790615904158
     }
   },
   "achievements": {
@@ -107,7 +126,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 5
+    "pushes": 6
   },
   "identity": {
     "installId": "fd60ae66-6293-4a47-8603-f1e7c9c4a868",
