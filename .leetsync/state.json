@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790612276808,
+  "updatedAt": 1790612304917,
   "devices": {
     "24c25ca5-1c6f-452b-ad17-48ee8d4a336a": {
-      "lastSeen": 1790612275495
+      "lastSeen": 1790612303970
     }
   },
   "problems": {
@@ -14,10 +14,10 @@
       "language": "C++",
       "number": 115,
       "title": "Distinct Subsequences",
-      "at": 1790612275495
+      "at": 1790612303970
     },
     "167": {
-      "attempts": 1,
+      "attempts": 2,
       "bestMemory": "25.7 MB (Beats 10%)",
       "bestRuntime": "0 ms (Beats 100%)",
       "date": "2026-09-28",
@@ -27,14 +27,14 @@
       "language": "C++",
       "number": 167,
       "slug": "two-sum-ii-input-array-is-sorted",
-      "solutionCount": 1,
+      "solutionCount": 2,
       "tags": [
         "Array",
         "Two Pointers",
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1790612275495
+      "at": 1790612303970
     },
     "1190": {
       "attempts": 1,
@@ -54,7 +54,7 @@
         "Bracket Sequences"
       ],
       "title": "Reverse Substrings Between Each Pair of Parentheses",
-      "at": 1790612275495
+      "at": 1790612303970
     },
     "1614": {
       "attempts": 1,
@@ -74,7 +74,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1790612275495
+      "at": 1790612303970
     },
     "1807": {
       "attempts": 1,
@@ -94,7 +94,7 @@
         "String"
       ],
       "title": "Evaluate the Bracket Pairs of a String",
-      "at": 1790612275495
+      "at": 1790612303970
     }
   },
   "achievements": {
@@ -107,7 +107,7 @@
   ],
   "bests": {
     "longestStreak": 2,
-    "pushes": 4
+    "pushes": 5
   },
   "identity": {
     "installId": "fd60ae66-6293-4a47-8603-f1e7c9c4a868",
