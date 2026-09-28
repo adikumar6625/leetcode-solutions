@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790604609809,
+  "updatedAt": 1790604804756,
   "devices": {
     "24c25ca5-1c6f-452b-ad17-48ee8d4a336a": {
-      "lastSeen": 1790604609268
+      "lastSeen": 1790604804134
     }
   },
   "problems": {
@@ -14,7 +14,7 @@
       "language": "C++",
       "number": 115,
       "title": "Distinct Subsequences",
-      "at": 1790604609268
+      "at": 1790604804134
     },
     "1190": {
       "attempts": 1,
@@ -34,7 +34,27 @@
         "Bracket Sequences"
       ],
       "title": "Reverse Substrings Between Each Pair of Parentheses",
-      "at": 1790604609268
+      "at": 1790604804134
+    },
+    "1614": {
+      "attempts": 1,
+      "bestMemory": "8.4 MB (Beats 24%)",
+      "bestRuntime": "0 ms (Beats 100%)",
+      "date": "2026-09-28",
+      "difficulty": "Easy",
+      "firstSolvedOn": "2026-09-28",
+      "folderName": "1614-Maximum-Nesting-Depth-of-the-Parentheses",
+      "language": "C++",
+      "number": 1614,
+      "slug": "maximum-nesting-depth-of-the-parentheses",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Stack",
+        "Bracket Sequences"
+      ],
+      "title": "Maximum Nesting Depth of the Parentheses",
+      "at": 1790604804134
     },
     "1807": {
       "attempts": 1,
@@ -54,7 +74,7 @@
         "String"
       ],
       "title": "Evaluate the Bracket Pairs of a String",
-      "at": 1790604609268
+      "at": 1790604804134
     }
   },
   "achievements": {
@@ -62,11 +82,12 @@
   },
   "sheets": {},
   "days": [
-    "2026-09-27"
+    "2026-09-27",
+    "2026-09-28"
   ],
   "bests": {
-    "longestStreak": 1,
-    "pushes": 2
+    "longestStreak": 2,
+    "pushes": 3
   },
   "identity": {
     "installId": "fd60ae66-6293-4a47-8603-f1e7c9c4a868",
