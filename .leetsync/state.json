@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1790944503249,
+  "updatedAt": 1790944629949,
   "devices": {
     "24c25ca5-1c6f-452b-ad17-48ee8d4a336a": {
-      "lastSeen": 1790944502662
+      "lastSeen": 1790944629342
     }
   },
   "problems": {
@@ -25,7 +25,28 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1790944502662
+      "at": 1790944629342
+    },
+    "22": {
+      "attempts": 1,
+      "bestMemory": "15.8 MB (Beats 30%)",
+      "bestRuntime": "2 ms (Beats 79%)",
+      "date": "2026-10-02",
+      "difficulty": "Medium",
+      "firstSolvedOn": "2026-10-02",
+      "folderName": "0022-Generate-Parentheses",
+      "language": "C++",
+      "number": 22,
+      "slug": "generate-parentheses",
+      "solutionCount": 1,
+      "tags": [
+        "String",
+        "Dynamic Programming",
+        "Backtracking",
+        "Bracket Sequences"
+      ],
+      "title": "Generate Parentheses",
+      "at": 1790944629342
     },
     "26": {
       "attempts": 1,
@@ -44,7 +65,7 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1790944502662
+      "at": 1790944629342
     },
     "115": {
       "date": "2026-09-27",
@@ -53,7 +74,7 @@
       "language": "C++",
       "number": 115,
       "title": "Distinct Subsequences",
-      "at": 1790944502662
+      "at": 1790944629342
     },
     "167": {
       "attempts": 2,
@@ -73,7 +94,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1790944502662
+      "at": 1790944629342
     },
     "1111": {
       "attempts": 1,
@@ -93,7 +114,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
-      "at": 1790944502662
+      "at": 1790944629342
     },
     "1190": {
       "attempts": 1,
@@ -113,7 +134,7 @@
         "Bracket Sequences"
       ],
       "title": "Reverse Substrings Between Each Pair of Parentheses",
-      "at": 1790944502662
+      "at": 1790944629342
     },
     "1614": {
       "attempts": 1,
@@ -133,7 +154,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1790944502662
+      "at": 1790944629342
     },
     "1807": {
       "attempts": 1,
@@ -153,24 +174,26 @@
         "String"
       ],
       "title": "Evaluate the Bracket Pairs of a String",
-      "at": 1790944502662
+      "at": 1790944629342
     }
   },
   "achievements": {
     "early_bird": 1790729727833,
     "first_blood": 1790516510157,
-    "night_owl": 1790879532376
+    "night_owl": 1790879532376,
+    "on_fire": 1790944516098
   },
   "sheets": {},
   "days": [
     "2026-09-27",
     "2026-09-28",
     "2026-09-30",
-    "2026-10-01"
+    "2026-10-01",
+    "2026-10-02"
   ],
   "bests": {
-    "longestStreak": 2,
-    "pushes": 8
+    "longestStreak": 3,
+    "pushes": 9
   },
   "identity": {
     "installId": "fd60ae66-6293-4a47-8603-f1e7c9c4a868",
