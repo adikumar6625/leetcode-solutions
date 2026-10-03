@@ -1,9 +1,9 @@
 {
   "v": 1,
-  "updatedAt": 1791006760553,
+  "updatedAt": 1791009299311,
   "devices": {
     "24c25ca5-1c6f-452b-ad17-48ee8d4a336a": {
-      "lastSeen": 1791006759903
+      "lastSeen": 1791009298435
     }
   },
   "problems": {
@@ -25,7 +25,7 @@
         "Bracket Sequences"
       ],
       "title": "Valid Parentheses",
-      "at": 1791006759903
+      "at": 1791009298435
     },
     "22": {
       "attempts": 1,
@@ -46,7 +46,7 @@
         "Bracket Sequences"
       ],
       "title": "Generate Parentheses",
-      "at": 1791006759903
+      "at": 1791009298435
     },
     "26": {
       "attempts": 1,
@@ -65,7 +65,7 @@
         "Two Pointers"
       ],
       "title": "Remove Duplicates from Sorted Array",
-      "at": 1791006759903
+      "at": 1791009298435
     },
     "115": {
       "date": "2026-09-27",
@@ -74,7 +74,7 @@
       "language": "C++",
       "number": 115,
       "title": "Distinct Subsequences",
-      "at": 1791006759903
+      "at": 1791009298435
     },
     "167": {
       "attempts": 2,
@@ -94,7 +94,7 @@
         "Binary Search"
       ],
       "title": "Two Sum II - Input Array Is Sorted",
-      "at": 1791006759903
+      "at": 1791009298435
     },
     "1111": {
       "attempts": 1,
@@ -114,7 +114,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of Two Valid Parentheses Strings",
-      "at": 1791006759903
+      "at": 1791009298435
     },
     "1190": {
       "attempts": 1,
@@ -134,7 +134,7 @@
         "Bracket Sequences"
       ],
       "title": "Reverse Substrings Between Each Pair of Parentheses",
-      "at": 1791006759903
+      "at": 1791009298435
     },
     "1614": {
       "attempts": 1,
@@ -154,7 +154,7 @@
         "Bracket Sequences"
       ],
       "title": "Maximum Nesting Depth of the Parentheses",
-      "at": 1791006759903
+      "at": 1791009298435
     },
     "1807": {
       "attempts": 1,
@@ -174,7 +174,7 @@
         "String"
       ],
       "title": "Evaluate the Bracket Pairs of a String",
-      "at": 1791006759903
+      "at": 1791009298435
     }
   },
   "achievements": {
